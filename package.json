@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/FeedWhisper5148/vuepress_docs#readme",
   "devDependencies": {
-    "vuepress": "^1.9.7"
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-auto-sidebar": "^2.3.2"
   }
 }
